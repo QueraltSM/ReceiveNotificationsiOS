@@ -17,8 +17,8 @@ class EventosViewController : UIViewController {
         
         // Notification code
         let content = UNMutableNotificationContent()
-        content.title = "HOLA JUAPA"
-        content.subtitle = "jeje"
+        content.title = "Notificación"
+        content.subtitle = "esto es un subtítulo"
         content.body = ":)"
         content.badge = 1
         
